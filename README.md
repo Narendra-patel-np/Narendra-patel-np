@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra-patel-np&label=Profile%20views&color=0e75b6&style=flat" alt="narendra-patel-np" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narendra-patel-np" alt="narendra-patel-np" /></a> </p>
-
 - 🌱 I’m currently learning **react , redux**
 
 - 📫 How to reach me **narendrapatel.np70@gmail.com**
