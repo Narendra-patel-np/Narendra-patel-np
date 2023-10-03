@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **narendrapatel.np70@gmail.com**
 
+- - 📄 Know about my experiences [https://Narendra-patel-np.github.io](https://Narendra-patel-np.github.io)
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1p9rNlMUegrvwkKiLdXE3_dByvf5VMrh9/view?usp=sharing](https://drive.google.com/file/d/1p9rNlMUegrvwkKiLdXE3_dByvf5VMrh9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
