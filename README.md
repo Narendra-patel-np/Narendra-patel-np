@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra-patel-np&label=Profile%20views&color=0e75b6&style=flat" alt="narendra-patel-np" /> </p>
 
-- 🌱 I’m currently learning **react , redux**
-
 - 👨‍💻 Some of my projects are available at [https://narendra-patel-np.github.io/](https://narendra-patel-np.github.io/)
 
 - 📫 How to reach me **narendrapatel.np70@gmail.com**
